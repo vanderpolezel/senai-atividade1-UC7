@@ -46,7 +46,7 @@ Apresentação dos Principais comandos aprendidos e estudados
 
 /*Compartilhando o projeto no GitHun - Criando um repositório Remoto */
 
-21. git remote add local https://github.com/vanderpolezel/senai-atividade1-UC7.git
+21. git remote add origin https://github.com/vanderpolezel/senai-atividade1-UC7.git
 
 22. git remote add local c:/Users/Alura/Documents/git-e-github/servidor/ /*Adicionado meu repositório remoto*/
 
