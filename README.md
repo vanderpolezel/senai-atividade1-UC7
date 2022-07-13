@@ -68,6 +68,8 @@ Apresentação dos Principais comandos aprendidos e estudados
 
 31. git tag -a v1.0 -m "mensagem da tag" /*cria uma tag*/
 
+32. git push orign --tags /*Empurra a tag para o respositório local*/
+
 /*Comentários adicionais*/
 
 /* HEAD: Estado atual do nosso código, ou seja, onde o Git os colocou
