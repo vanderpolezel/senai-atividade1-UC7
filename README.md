@@ -66,7 +66,7 @@ Apresentação dos Principais comandos aprendidos e estudados
 
 30. git merge novobranch /*Cria o commit de junção de branchs*/
 
-31. git tag -a v1.0 -m /*cria uma tag*/
+31. git tag -a v1.0 -m "mensagem da tag" /*cria uma tag*/
 
 /*Comentários adicionais*/
 
