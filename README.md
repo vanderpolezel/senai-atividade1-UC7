@@ -1,7 +1,5 @@
 # senai-atividade1-UC7
 
-/*alterando o arquivo readme.md na branch tarefa/branch*/
-
 Apresentação dos Principais comandos aprendidos e estudados
 
 1. git config --global user.name "Vander Michellao" /*configurando o nome do usuário que acessando
@@ -75,3 +73,6 @@ Apresentação dos Principais comandos aprendidos e estudados
 /* HEAD: Estado atual do nosso código, ou seja, onde o Git os colocou
 Working tree: Local onde os arquivos realmente estão sendo armazenados e editados
 index: Local onde o Git armazena o que será commitado, ou seja, o local entre a working tree e o repositório Git em si.*/
+
+
+/*alterando o arquivo readme.md na branch tarefa/branch*/
