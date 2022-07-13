@@ -42,7 +42,7 @@ Apresentação dos Principais comandos aprendidos e estudados
 
 19. git status  /*mostra como um arquivo novo do projeto.*/
 
-20. gitignore  /* ao adicionar os arquivos dentro do gitignore não seram monitorados pelo git */
+20. .gitignore  /* ao adicionar os arquivos dentro do .gitignore não seram monitorados pelo git */
 
 /*Compartilhando o projeto no GitHun - Criando um repositório Remoto */
 
