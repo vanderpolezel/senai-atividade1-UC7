@@ -75,4 +75,4 @@ Working tree: Local onde os arquivos realmente estão sendo armazenados e editad
 index: Local onde o Git armazena o que será commitado, ou seja, o local entre a working tree e o repositório Git em si.*/
 
 
-/*alterando o arquivo readme.md na branch tarefa/branch*/
+/* alterando o arquivo readme.md na branch tarefa/branch */
