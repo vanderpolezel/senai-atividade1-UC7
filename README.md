@@ -54,7 +54,7 @@ Apresentação dos Principais comandos aprendidos e estudados
 
 24. git clone /*Faz uma copia completa do projeto*/
 
-25. git push -u origin master /* envia os dados para o Servidor, primeiro acesso pede login e senha do github*/
+25. git push -u origin master /* envia os dados para o Servidor Remoto, primeiro acesso pede login e senha do github*/
 
 26. git pull /*Pega os dados do Servidor Remoto*/
 
