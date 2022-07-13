@@ -1,5 +1,7 @@
 # senai-atividade1-UC7
 
+/*alterando o arquivo readme.md na branch tarefa/branch*/
+
 Apresentação dos Principais comandos aprendidos e estudados
 
 1. git config --global user.name "Vander Michellao" /*configurando o nome do usuário que acessando
