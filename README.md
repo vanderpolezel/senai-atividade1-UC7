@@ -64,7 +64,7 @@ Apresentação dos Principais comandos aprendidos e estudados
 
 29. git checkou -b novobranch /* Já cria o novobranch e acessa o mesmo*/
 
-30. git merge novobranch /*Cria o commit de junção de branchs*/
+30. git merge novobranch /*Cria o commit de junção de branches*/
 
 31. git tag -a v1.0 -m "mensagem da tag" /*cria uma tag*/
 
